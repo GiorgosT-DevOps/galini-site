@@ -1,1 +1,49 @@
+GALINI SUITES & CAFÉ WEBSITE LICENSE
+Copyright (c) 2026 Galini Suites & Café
+All Rights Reserved.
 
+1. Ownership
+
+All source code, design elements, layout structures, stylesheets, scripts,
+images, graphics, and other assets contained in this repository are the
+intellectual property of Galini Suites & Café unless otherwise stated.
+
+2. License Grant
+
+No license is granted to copy, modify, distribute, reproduce, publish,
+or use this software, design, or any of its components for any purpose
+without explicit written permission from the copyright holder.
+
+3. Restrictions
+
+The following actions are strictly prohibited:
+
+• Copying or redistributing the source code
+• Reusing the design or layout structure
+• Replicating the visual appearance of the website
+• Using images or media assets included in the project
+• Using the code in commercial or personal projects
+
+4. Image and Media Protection
+
+All images, photographs, and visual media included in this project are
+protected and remain the property of Galini Suites & Café or their
+respective owners.
+
+Unauthorized reproduction, redistribution, or commercial usage of any
+media asset contained in this repository is strictly prohibited.
+
+5. Portfolio Display
+
+This repository may be publicly visible for demonstration, educational,
+or portfolio purposes only. Viewing the repository does not grant any
+rights to use the code, design, or assets.
+
+6. Enforcement
+
+Any unauthorized use, reproduction, or distribution of this project
+may result in legal action.
+
+7. Contact
+
+For licensing inquiries or permission requests, contact the project owner.
